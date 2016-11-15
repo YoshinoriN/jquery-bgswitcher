@@ -304,6 +304,7 @@
         this.$el.css('background', 'none');
       }
         this.$bg.css('background-size', 'cover');
+        this.$bg.css('position', 'fixed');      
     },
 
     /**
